@@ -1,0 +1,31 @@
+#Title {
+  margin-left: 10vw;
+  background-color: aqua;
+}
+
+#NavContainer {
+  height: 50vh;
+width: 10vw;
+background-color: rgba(83, 83, 83, 0.403);
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+}
+
+#MainContainer {
+  display: flex;
+}
+
+#HeaderContainer{
+  display:flex;
+  justify-content: space-between;
+}
+
+#hero {
+  margin-right: 10vw;
+  border-radius: 5%;
+}
+
+#ContentContainer {
+  width: 70vw
+}
